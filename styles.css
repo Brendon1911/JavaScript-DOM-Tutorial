@@ -25,7 +25,7 @@ h1, h2 {
   padding: 10px 0;
 }
 
-#page-banner h1, page-banner p {
+#page-banner h1, #page-banner p {
   width: 100%;
   text-align: center;
   margin: 10px 0;
@@ -43,7 +43,7 @@ h1, h2 {
   color: #444;
 }
 
-#book-list #add-book #tabbed-content {
+#book-list, #add-book, #tabbed-content {
   margin: 30px;
 }
 
